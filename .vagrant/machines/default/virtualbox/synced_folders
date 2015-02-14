@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/nagashima/work/dev-cakephp/cakeapp","disabled":false},"vagrant-cache":{"id":"vagrant-cache","guestpath":"/tmp/vagrant-cache","hostpath":"/Users/nagashima/.vagrant.d/cache/chef/centos-6.6","disabled":false}}}
