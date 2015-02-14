@@ -1,1 +1,15 @@
-/cookbooks/
+.DS_Store
+
+# IDE
+.idea
+
+# Vagrant and Chef
+.vagrant
+cookbooks
+
+# CakePHP
+app/tmp
+app/Plugin
+app/Vendor
+app/reports
+app/Config/bootstrap/environments/production.php
